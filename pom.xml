@@ -22,8 +22,8 @@
         <jenkins.version>2.32.1</jenkins.version>
 
         <!-- jenkins plugins versions -->
-        <jenkins-script-security.version>1.26</jenkins-script-security.version>
-        <jenkins-metrics.version>3.1.2.10</jenkins-metrics.version>
+        <jenkins-script-security.version>1336.vf33a_a_9863911</jenkins-script-security.version>
+        <jenkins-metrics.version>4.0.2.7.1</jenkins-metrics.version>
         <jenkins-ownership.version>0.10.0</jenkins-ownership.version>
 
         <influxdb-java.version>2.7</influxdb-java.version>
